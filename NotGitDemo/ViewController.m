@@ -22,6 +22,9 @@
   
   NSLog(@"kajsdlkfjalkdsjflk ");
   NSLog(@"kajsdlkfjalkdsjflk ");
+  
+  NSLog(@"kajsdlkfjalkdsjflk ");
+  NSLog(@"kajsdlkfjalkdsjflk ");
 }
 
 - (void)didReceiveMemoryWarning {
