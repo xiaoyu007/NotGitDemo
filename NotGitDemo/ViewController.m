@@ -19,6 +19,9 @@
   // Do any additional setup after loading the view, typically from a nib.
   NSLog(@"kajsdlkfjalkdsjflk ");
   NSLog(@"kajsdlkfjalkdsjflk ");
+  
+  NSLog(@"kajsdlkfjalkdsjflk ");
+  NSLog(@"kajsdlkfjalkdsjflk ");
 }
 
 - (void)didReceiveMemoryWarning {
